@@ -33,6 +33,7 @@
 *У него голубая шапка*
  
 *У девушки серые глаза*:
+![alt text](https://github.com/AigeldiEminova/Project/blob/master/8.png)
  
 *У него голубые глаза*:
  
