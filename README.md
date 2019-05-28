@@ -36,6 +36,7 @@
 ![alt text](https://github.com/AigeldiEminova/Project/blob/master/8.png)
  
 *У него голубые глаза*:
+![alt text](https://github.com/AigeldiEminova/Project/blob/master/9.png)
  
 
 ## Желтый/ оранжевый/ рыжий цвета
