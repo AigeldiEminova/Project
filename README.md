@@ -72,7 +72,7 @@
  ![alt text]()
  
 3.	Зеленый
- ![alt text]()
+ ![alt text](https://github.com/AigeldiEminova/Project/blob/master/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9.png)
  
 4.	Оранжевый
  ![alt text]()
