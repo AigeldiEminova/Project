@@ -81,7 +81,7 @@
  ![alt text](https://github.com/AigeldiEminova/Project/blob/master/%D1%81%D0%B8%D0%BD%D0%B8%D0%B9.png)
  
 6.	Синий
- ![alt text]()
+ ![alt text](https://github.com/AigeldiEminova/Project/blob/master/%D1%81%D0%B8%D0%BD%D0%B8%D0%B9.png)
  
 7.	Фиолетовый
  ![alt text]()
