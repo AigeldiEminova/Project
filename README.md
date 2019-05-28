@@ -62,7 +62,7 @@
 ![alt text](https://github.com/AigeldiEminova/Project/blob/master/%D0%BD%D0%BA%D1%80%D1%8F.png)
  
 На базе новостного корпуса мы получаем немного иную картину, где наоборот синий и фиолетовый в обоих языках оказываются семантически близки: 
-![alt text]()
+![alt text](https://github.com/AigeldiEminova/Project/blob/master/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81.png)
  
 
 # Шаг 3. Мы проанализировали с помощью Google Ngrams употребление этих цветообозначений в определенные периоды и попытались понять «всплеск» и «падение» в их использовании.
